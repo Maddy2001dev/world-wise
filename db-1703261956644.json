@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Gerindote",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-24T02:17:56.866Z",
+      "notes": "cool",
+      "position": {
+        "lat": "39.53260734934028",
+        "lng": "-3.8671875000000004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-24T02:18:16.202Z",
+      "notes": "yyy",
+      "position": {
+        "lat": "40.42571955981648",
+        "lng": "-3.6145019531250004"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Sabugal",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-11-24T02:18:27.665Z",
+      "notes": "uu",
+      "position": {
+        "lat": "40.367468891292766",
+        "lng": "-7.0037841796875"
+      },
+      "id": 3
+    }
+  ]
+}
